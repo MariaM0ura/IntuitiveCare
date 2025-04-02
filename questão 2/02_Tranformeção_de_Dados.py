@@ -7,7 +7,7 @@ import zipfile
 import os
 
 # Nome do arquivo PDF (ajuste conforme necessário)
-PDF_ANEXO_I = "pdfs/Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf"  
+PDF_ANEXO_I = "./pdfs/Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf"  
 CSV_SAIDA = "Rol_de_Procedimentos.csv"
 ZIP_SAIDA = "Teste_Maria.zip"  # Substitua pelo seu nome
 
